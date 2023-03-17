@@ -1,0 +1,15 @@
+G:\OneDrive\$Dev\C#\KnowDuplicateFiles_Skeleton\bin\Release\net6.0\KnowDuplicateFiles_Skeleton.exe
+G:\OneDrive\$Dev\C#\KnowDuplicateFiles_Skeleton\bin\Release\net6.0\KnowDuplicateFiles_Skeleton.deps.json
+G:\OneDrive\$Dev\C#\KnowDuplicateFiles_Skeleton\bin\Release\net6.0\KnowDuplicateFiles_Skeleton.runtimeconfig.json
+G:\OneDrive\$Dev\C#\KnowDuplicateFiles_Skeleton\bin\Release\net6.0\KnowDuplicateFiles_Skeleton.dll
+G:\OneDrive\$Dev\C#\KnowDuplicateFiles_Skeleton\bin\Release\net6.0\KnowDuplicateFiles_Skeleton.pdb
+G:\OneDrive\$Dev\C#\KnowDuplicateFiles_Skeleton\obj\Release\net6.0\KnowDuplicateFiles_Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+G:\OneDrive\$Dev\C#\KnowDuplicateFiles_Skeleton\obj\Release\net6.0\KnowDuplicateFiles_Skeleton.AssemblyInfoInputs.cache
+G:\OneDrive\$Dev\C#\KnowDuplicateFiles_Skeleton\obj\Release\net6.0\KnowDuplicateFiles_Skeleton.AssemblyInfo.cs
+G:\OneDrive\$Dev\C#\KnowDuplicateFiles_Skeleton\obj\Release\net6.0\KnowDuplicateFiles_Skeleton.csproj.CoreCompileInputs.cache
+G:\OneDrive\$Dev\C#\KnowDuplicateFiles_Skeleton\obj\Release\net6.0\KnowDuplicateFiles_Skeleton.dll
+G:\OneDrive\$Dev\C#\KnowDuplicateFiles_Skeleton\obj\Release\net6.0\ref\KnowDuplicateFiles_Skeleton.dll
+G:\OneDrive\$Dev\C#\KnowDuplicateFiles_Skeleton\obj\Release\net6.0\KnowDuplicateFiles_Skeleton.pdb
+G:\OneDrive\$Dev\C#\KnowDuplicateFiles_Skeleton\obj\Release\net6.0\KnowDuplicateFiles_Skeleton.genruntimeconfig.cache
+G:\OneDrive\$Dev\C#\KnowDuplicateFiles_Skeleton\obj\Release\net6.0\KnowDuplicateFiles_Skeleton.csproj.AssemblyReference.cache
+G:\OneDrive\$Dev\C#\KnowDuplicateFiles_Skeleton\obj\Release\net6.0\refint\KnowDuplicateFiles_Skeleton.dll
